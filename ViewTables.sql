@@ -1,0 +1,13 @@
+USE Pizzeria;
+select * from customer;
+select * from ordertable;
+select * from dinein;
+select * from pickup;
+select * from delivery;
+select * from discount;
+select * from order_discount;
+select * from baseprice;
+select * from pizza;
+select * from pizza_discount;
+select * from topping;
+select * from pizza_topping;
